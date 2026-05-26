@@ -1,0 +1,12 @@
+node_modules/
+.env
+artifacts/
+cache/
+coverage/
+typechain/
+deployments/
+.openzeppelin/
+.DS_Store
+*.log
+contract-address.json
+hardhat-node-data/
