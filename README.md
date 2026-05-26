@@ -58,7 +58,7 @@ All contracts are deployed on **testnets only** using **test ETH** with no real 
 
 ```bash
 # Clone and install
-git clone https://github.com/YOUR_USERNAME/crowdfunding-dapp.git
+git clone https://github.com/ramintaghizada/crowdfunding-dapp.git
 cd crowdfunding-dapp
 npm install
 
